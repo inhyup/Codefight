@@ -31,5 +31,5 @@ public class RotateImage {
 			System.out.println();
 		}
 	}
-
+	
 }
